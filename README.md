@@ -13,7 +13,7 @@ Generate professional tweets easily using OpenAI's GPT-3.
 **1. Clone the Repository:**
 
 ```shell
-git clone https://github.com/yourusername/tweetgen.git
+git clone https://github.com/karthikc0711/tweetgen.git
  ```
  **2. Navigate to the Project Directory:** 
    ```shell
