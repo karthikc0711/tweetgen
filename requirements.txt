@@ -1,18 +1,2 @@
-2. Navigate to the Project Directory:
-
-shell
-cd tweetgen
-3. Install Dependencies:
-
-shell
-
-pip install -r requirements.txt
-Usage
-1. Set Your OpenAI API Key:
-
-Open the tweetgen.py file and replace "YOUR_API_KEY" with your actual OpenAI API key.
-
-2. Run the Application:
-
-shell
-streamlit run tweetgen.py
+streamlit
+openai
